@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cb8aae7f478d057976f1c9f57045eb55",
+    "revision": "6c1d5b2fe1c326f6e6e7511be0417b97",
     "url": "/gh-pages-krovid/index.html"
   },
   {
-    "revision": "ce6fbea2508a53f841a8",
+    "revision": "a4c3493168ba83f1bb24",
     "url": "/gh-pages-krovid/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gh-pages-krovid/static/js/2.45319c1c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ce6fbea2508a53f841a8",
-    "url": "/gh-pages-krovid/static/js/main.12fd749c.chunk.js"
+    "revision": "a4c3493168ba83f1bb24",
+    "url": "/gh-pages-krovid/static/js/main.213e1ffb.chunk.js"
   },
   {
     "revision": "23df1f89e28d80ac1e08",
@@ -28,12 +28,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gh-pages-krovid/static/media/b.04864a6a.png"
   },
   {
-    "revision": "ad8f0ac6da606d21ec4c66d94a507205",
-    "url": "/gh-pages-krovid/static/media/kronos_box.ad8f0ac6.png"
+    "revision": "1e07f4664b19c592c376778070d91857",
+    "url": "/gh-pages-krovid/static/media/box1.1e07f466.png"
   },
   {
-    "revision": "459c0304d575ae36ff5e7aea648d50e0",
-    "url": "/gh-pages-krovid/static/media/kronos_box2.459c0304.png"
+    "revision": "6c122fa2a59a7d7ac141bfac165c0692",
+    "url": "/gh-pages-krovid/static/media/box3.6c122fa2.png"
   },
   {
     "revision": "d00f46bd78a11b616d96ea668e023433",
