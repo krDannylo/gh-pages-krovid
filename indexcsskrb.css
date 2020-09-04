@@ -1,0 +1,183 @@
+.buyk-content-main{
+
+}
+
+.buyk-cont-first-table-text{
+    position: absolute;
+    font-size: 50px;
+    left: 15%;
+    top: 250px;
+}
+
+.buyk-cont-first-table-buy-part{
+    position: relative;
+    width: 40%;
+    height: 450px;
+    top: 250px;
+    background: #fff7cf;
+    margin: -10em 10em 0 auto;
+    border-radius: 70px;
+}
+
+.buyk-cont-first-table-buy-part p{
+    position: relative;
+    font-size: 70px;
+    left: 23%;
+    top: 3%;
+}
+
+.buyk-cont-first-table-buy-part-radius{
+    position: relative;
+    width: 60%;
+    height: 65px;
+    background: #ffd600;
+    margin: -10em 10em 0 auto;
+    border-radius: 70px;
+    top: 35%;
+    left: 6%;
+}
+
+.buyk-cont-first-table-buy-part-radius p{
+    position: relative;
+    font-size: 30px;
+    left: 22%;
+    top: 10%
+}
+
+.buyk-cont-first-table-buy-part-text p{
+    position: relative;
+    font-size: 20px;
+    top: 300px;
+}
+
+.carousel-text{
+    width: 43%;
+    top: 400px;
+    left: 100px;
+}
+
+.descri-box{
+    position: absolute;
+    width: 25%;
+    left: 50%;
+    top: 110%;
+}
+
+.maink-last{
+    position: absolute;
+    font-size: 50px;
+    top: 170%;
+    left: 10%;
+}
+
+.maink-radius2{
+    position: relative;
+    width: 40%;
+    height: 450px;
+    top: 750px;
+    background: #fff7cf;
+    margin: -10em 10em 0 auto;
+    border-radius: 70px;
+}
+
+.buyk-cont-first-table-text2{
+    position: absolute;
+    font-size: 70px;
+    font-weight: bold;
+    left: 30%;
+    top: 30px;
+}
+
+.buyk-cont-first-table-buy-part-radius2{
+    position: relative;
+    width: 60%;
+    height: 65px;
+    background: #ffd600;
+    margin: -10em 10em 0 auto;
+    border-radius: 70px;
+    top: 35%;
+    left: 6%;
+}
+
+.buyk-cont-first-table-buy-part-radius2 p{
+    position: relative;
+    font-size: 30px;
+    left: 22%;
+    top: 10%
+}
+
+.buyk-cont-first-table-buy-part-text2{
+    position: relative;
+    font-size: 20px;
+    top: 300px;
+    left: 20%;
+}
+
+.carousel-text2{
+    width: 43%;
+    top: 900px;
+    left: 100px;
+}
+
+.descri-box2{
+    position: absolute;
+    width: 25%;
+    left: 50%;
+    top: 250%;
+}
+
+#buyk-footer{
+    position: relative;
+    height: 150px;
+    background-color: #ffd600;
+    margin-top: 1100px;
+    clear: both;
+}
+
+.buyk-footer-text{
+    position: absolute;
+    font-size: 20px;
+    left: 35%;
+    top: 50px;
+}
+
+.buyk-footer-text2{
+    position: absolute;
+    font-size: 20px;
+    left: 25%;
+    top: 70px;
+}
+
+.buyk-footer-text3{
+    position: absolute;
+    font-size: 20px;
+    left: 26%;
+    top: 90px;
+}
+
+.buyk-kronos_logo_footer{
+    position: absolute;
+    bottom: 1em;
+    width: 100px;
+    left: 30px;
+}
+
+.buyk-footer-icons{
+    width: auto;
+    height: 100px;
+    display: block;
+}
+
+.buyk-footer-icon-insta{
+    position: relative;
+    left: 96%;
+    top: 50px;
+}
+
+.buyk-footer-icon-yout{
+    position: relative;
+    left: 96%;
+    top: 65px;
+    display: block;
+    cursor: pointer;
+}

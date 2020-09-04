@@ -1,0 +1,50 @@
+.grid{
+}
+
+.maink-header{
+    width: auto;
+    height: 100px;
+    display: block;
+    background-color: #ffd600;
+}
+
+.maink-header2{
+    width: 90%;
+    height: 100%;
+    display: block;
+    margin: 0 auto;
+    background-color:#ffd600;
+}
+
+.maink-container{
+    height: 100%;
+    display: table;
+    float: left;
+}
+
+.maink-container h1{
+    font-size: 20px;
+    color: black;
+    height: 500%;
+    display: table-cell;
+    vertical-align: middle;
+    font-family: _'Montserrat'_;
+}
+
+.maink-logo{
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.maink-kronos_logo{
+    position: absolute;
+    width: 100px;
+    bottom: 100;
+    left: 45%;
+}
+
+.icon-menu{
+    position: absolute;
+    padding: 2.2em;
+    margin: 0 0 0 -150px;
+}
