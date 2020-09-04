@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/gh-pages-krovid/static/css/main.5f361e03.chunk.css",
-    "main.js": "/gh-pages-krovid/static/js/main.213e1ffb.chunk.js",
-    "main.js.map": "/gh-pages-krovid/static/js/main.213e1ffb.chunk.js.map",
+    "main.js": "/gh-pages-krovid/static/js/main.85dbc21e.chunk.js",
+    "main.js.map": "/gh-pages-krovid/static/js/main.85dbc21e.chunk.js.map",
     "runtime-main.js": "/gh-pages-krovid/static/js/runtime-main.41514a4a.js",
     "runtime-main.js.map": "/gh-pages-krovid/static/js/runtime-main.41514a4a.js.map",
     "static/js/2.45319c1c.chunk.js": "/gh-pages-krovid/static/js/2.45319c1c.chunk.js",
     "static/js/2.45319c1c.chunk.js.map": "/gh-pages-krovid/static/js/2.45319c1c.chunk.js.map",
     "index.html": "/gh-pages-krovid/index.html",
-    "precache-manifest.03d4bea2ad9304a7edc81d698bfe6143.js": "/gh-pages-krovid/precache-manifest.03d4bea2ad9304a7edc81d698bfe6143.js",
+    "precache-manifest.42d4789d0cccc75b19933c4e991b87cf.js": "/gh-pages-krovid/precache-manifest.42d4789d0cccc75b19933c4e991b87cf.js",
     "service-worker.js": "/gh-pages-krovid/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/gh-pages-krovid/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.45319c1c.chunk.js.LICENSE.txt": "/gh-pages-krovid/static/js/2.45319c1c.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.41514a4a.js",
     "static/js/2.45319c1c.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.213e1ffb.chunk.js"
+    "static/js/main.85dbc21e.chunk.js"
   ]
 }

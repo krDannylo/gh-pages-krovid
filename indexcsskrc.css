@@ -49,16 +49,25 @@
     border-radius: 70px;
 }
 
-.maink-content3 h1{
-    position: static;
-    font-weight: bold;
+.maink-content3 a{
+    position: relative;
+    left: 24%;
     font-size: 30px;
-    margin: 2em;
-    padding: 15px;
+    font-weight: bold;
+    color: black;
+    top: 12px;
+}
+
+.maink-content3 a:link{
+    text-decoration: none;
+}
+
+.maink-content3 a:hover{
+    color: grey;
 }
 
 .icon-shop{
-    margin: -106px -2em;
+    margin: -30px -2.3em;
 }
 
 .maink-content4{
