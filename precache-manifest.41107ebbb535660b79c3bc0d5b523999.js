@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6b4ad02da1caf749ddeae35d63ab6636",
+    "revision": "6b274a82549cbdee25fe8a3d05fa4789",
     "url": "/gh-pages-krovid/index.html"
   },
   {
-    "revision": "0f16ade8cdfe0ddb44a2",
+    "revision": "44be4492b23fbf864943",
     "url": "/gh-pages-krovid/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gh-pages-krovid/static/js/2.45319c1c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0f16ade8cdfe0ddb44a2",
-    "url": "/gh-pages-krovid/static/js/main.fa6f431a.chunk.js"
+    "revision": "44be4492b23fbf864943",
+    "url": "/gh-pages-krovid/static/js/main.d693ffb3.chunk.js"
   },
   {
     "revision": "23df1f89e28d80ac1e08",
