@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gh-pages-krovid/static/css/main.5f361e03.chunk.css",
+    "main.js": "/gh-pages-krovid/static/js/main.fcf454d8.chunk.js",
+    "main.js.map": "/gh-pages-krovid/static/js/main.fcf454d8.chunk.js.map",
+    "runtime-main.js": "/gh-pages-krovid/static/js/runtime-main.41514a4a.js",
+    "runtime-main.js.map": "/gh-pages-krovid/static/js/runtime-main.41514a4a.js.map",
+    "static/js/2.efea42fd.chunk.js": "/gh-pages-krovid/static/js/2.efea42fd.chunk.js",
+    "static/js/2.efea42fd.chunk.js.map": "/gh-pages-krovid/static/js/2.efea42fd.chunk.js.map",
+    "index.html": "/gh-pages-krovid/index.html",
+    "precache-manifest.29f68ff5ed32a0bc5c405524e06a28c7.js": "/gh-pages-krovid/precache-manifest.29f68ff5ed32a0bc5c405524e06a28c7.js",
+    "service-worker.js": "/gh-pages-krovid/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/gh-pages-krovid/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.efea42fd.chunk.js.LICENSE.txt": "/gh-pages-krovid/static/js/2.efea42fd.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/gh-pages-krovid/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41514a4a.js",
+    "static/js/2.efea42fd.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.fcf454d8.chunk.js"
+  ]
+}
