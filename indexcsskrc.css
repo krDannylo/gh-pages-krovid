@@ -214,3 +214,225 @@
     display: block;
     cursor: pointer;
 }
+
+@media (min-width: 0px) and (max-width: 720px) {
+    .maink-content{
+        width: auto;
+        height: 100px;
+        display: block;
+    }
+    
+    .maink-container-content{
+        height: 100%;
+        display: table;
+        float: left;
+    }
+    
+    .maink-container-content h1{
+        font-weight: bold;
+        font-size: 20px;
+        position: relative;
+        height: 500%;
+        width: 80%;
+        left: 15%;
+        bottom: -60px;
+    }
+    
+    .maink-content2{
+        width: auto;
+        height: 100px;
+        display: block;
+    }
+    
+    .maink-container-content2{
+        width: auto;
+        height: 100%;
+        display: table;
+        float: left;
+    }
+    
+    .maink-container-content2 p{
+        font-weight: normal;
+        font-size: 12px;
+        position: relative;
+        bottom: 10px;
+        left: 11%;
+    }
+    
+    .maink-content3{
+        position: relative;
+        width: 35%;
+        height: 35px;
+        background: #ffd600;
+        margin: -10em 4em 0 auto;
+        border-radius: 70px;
+    }
+    
+    .maink-content3 a{
+        position: relative;
+        left: 11%;
+        font-size: 15px;
+        font-weight: bold;
+        color: black;
+        top: 5px;
+    }
+    
+    .maink-content3 a:link{
+        text-decoration: none;
+    }
+    
+    .maink-content3 a:hover{
+        color: grey;
+    }
+    
+    .icon-shop{
+        margin: -28px 1.2em;
+    }
+    
+    .maink-content4{
+        position: static;
+        width: 35%;
+        height: 35px;
+        background: #ffd600;
+        margin: 0.4em 4em 0 auto;
+        border-radius: 70px;
+    }
+    
+    .maink-content4 h1{
+        position: static;
+        font-weight: bold;
+        font-size: 15px;
+        padding: 9px;
+        margin: 9px 0.3em;
+    }
+    
+    .icon-tool{
+        margin: -45px 2em;
+    }
+    
+    .maink-content5{
+        position: relative;
+        width: 35%;
+        height: 35px;
+        background: #ffd600;
+        margin: 0.4em 4em 0 auto;
+        border-radius: 70px;
+    }
+    
+    .maink-content5 h1{
+        position: static;
+        font-weight: bold;
+        font-size: 15px;
+        padding: 10px;
+        margin: 0px 0.4em;
+    }
+    
+    .icon-book{
+        margin: -37px 2em;
+    }
+    
+    .maink-content-text{
+        position: absolute;
+        bottom: 15em;
+        left: 15px;
+        font-size: 15px;
+    }
+    
+    .maink-content-image{
+        position: relative;
+        width: 100%;
+        height: 100%;
+        display: block;
+        top: 500px;
+    }
+    
+    .maink-back_image{
+        position: absolute;
+        bottom: 10em;
+        width: 100%;
+        height: 300px;
+        left: 0%;
+    }
+    
+    .maink-content-image-box{
+        width: auto;
+        height: 100px;
+        display: block;
+    }
+    
+    .maink-front-box{
+        position: relative;
+        margin: 100px;
+        bottom: -270px;
+        background-image: url("maink-front-box");
+        height: 350%;
+        width: 90%;
+        left: -20%;
+    }
+    
+    .maink-front-box2{
+        position: relative;
+        margin: 100px;
+        bottom: -100px;
+        left: -20%;
+        height: 200px;
+        width: 90%;
+        background-image: url("maink-front-box2");
+    }
+    
+    #maink-footer{
+        position: relative;
+        height: 150px;
+        background-color: #ffd600;
+        margin-top: 120px;
+        clear: both;
+    }
+    
+    .maink-footer-text{
+        position: absolute;
+        font-size: 12px;
+        left: 20%;
+        top: 30px;
+    }
+    
+    .maink-footer-text2{
+        position: absolute;
+        font-size: 12px;
+        left: 20%;
+        top: 45px;
+    }
+    
+    .maink-footer-text3{
+        position: absolute;
+        font-size: 12px;
+        left: 20%;
+        top: 90px;
+    }
+    
+    .maink-kronos_logo_footer{
+        position: absolute;
+        bottom: 3em;
+        width: 50px;
+        left: 10px;
+    }
+    
+    .maink-footer-icons{
+        width: auto;
+        height: 100px;
+        display: block;
+    }
+    
+    .maink-footer-icon-insta{
+        position: relative;
+        left: 90%;
+        top: 50px;
+    }
+    
+    .maink-footer-icon-yout{
+        position: relative;
+        left: 90%;
+        top: 65px;
+        display: block;
+        cursor: pointer;
+    }
+}
